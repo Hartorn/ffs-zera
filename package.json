@@ -139,7 +139,7 @@
     "react-dom": "16.8.5",
     "react-draft-wysiwyg": "1.13.2",
     "react-fontawesome": "1.6.1",
-    "react-router": "3.2.1",
+    "react-router": "3.2.6",
     "react-transition-group": "2.7.0",
     "typeface-roboto": "0.0.54",
     "webpack-focus": "1.0.3"
